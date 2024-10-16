@@ -1,0 +1,12 @@
+/* CSS tambahan untuk styling */
+header {
+    background: url('../img/event.jpg') no-repeat center center/cover;
+}
+
+#layanan i {
+    color: #007bff;
+}
+
+footer {
+    background-color: #333;
+}
